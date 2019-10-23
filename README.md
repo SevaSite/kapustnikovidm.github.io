@@ -1,2 +1,2 @@
-# kapustnikovidm1901.github.io
+# kapustnikovidm.github.io
 Мой первый хостинг
